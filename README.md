@@ -57,11 +57,11 @@ The express-session (Links to an external site.) package stores the session data
 
 ##SCREENSHOTS
 
-![](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28 (1).png)
+![](images\2021-11-28 (1).png)
 
-![](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28 (2).png)
+![](images\2021-11-28 (2).png)
 
-![](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28.png)
+![](images\2021-11-28.png)
 
 Grading Requirements
 This Challenge is graded based on the following criteria:
