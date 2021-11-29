@@ -55,6 +55,7 @@ You’ll also need the dotenv package (Links to an external site.) to use enviro
 NOTE
 The express-session (Links to an external site.) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package.
 
+<<<<<<< HEAD
 ##Screenshots
 
 ![](images/filename%202021-11-28 (2).png)
@@ -62,6 +63,8 @@ The express-session (Links to an external site.) package stores the session data
 ![](images/filename%202021-11-28.png)
 
 ![](images/filename%202021-11-28 (1).png)
+=======
+>>>>>>> 2f948ba912858f3717ec1ec3f93bf8c46bc5d1f6
 
 Grading Requirements
 This Challenge is graded based on the following criteria:
