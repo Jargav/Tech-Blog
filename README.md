@@ -1,9 +1,9 @@
 
-![new post](images\2021-11-28 (1).png)
+![newpost](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28 (1).png)
 
-![login](images\2021-11-28 (2).png)
+![login](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28 (2).png)
 
-![Dashboard](images\2021-11-28.png)
+![Dashboard](C:\Users\jagav\OneDrive\Desktop\Tech-Blog\Tech-Blog\images\2021-11-28.png)
 
 14. Model-View-Controller (MVC) Challenge: Tech Blog:
 
